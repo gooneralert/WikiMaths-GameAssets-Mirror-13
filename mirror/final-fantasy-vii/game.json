@@ -1,0 +1,102 @@
+{
+  "slug": "final-fantasy-vii",
+  "title": "Final Fantasy VII",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/ffvii.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/ffvii.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/ffvii.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/ffvii.html",
+  "entryUrl": "https://truffled.lol/gamefile/ffvii.html",
+  "status": "done",
+  "sizeBytes": 487810006,
+  "assetCount": 46,
+  "known404": [
+    "https://truffled.lol/gamefile/asd.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/emulator.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/emulator.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/nipplejs.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/nipplejs.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/storage.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/storage.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/shaders.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/shaders.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/GameManager.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/GameManager.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/compression.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/compression.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/gamepad.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/gamepad.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/socket.io.min.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/socket.io.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/compression/1.7z",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/compression/1.7z",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/gamefile/asd.js",
+      "error": "HTTP 404 for https://truffled.lol/gamefile/asd.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:56:22.879Z",
+  "verifiedAt": "2026-11-17T09:57:29.409Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0584,
+    "rendered": true
+  }
+}
