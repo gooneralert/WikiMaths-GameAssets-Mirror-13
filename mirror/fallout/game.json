@@ -1,0 +1,225 @@
+{
+  "slug": "fallout",
+  "title": "Fallout",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/falloutt.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/falloutt.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/fallout.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/falloutt.html",
+  "entryUrl": "https://truffled.lol/gamefile/falloutt.html",
+  "status": "done",
+  "sizeBytes": 461924367,
+  "assetCount": 31,
+  "known404": [
+    "https://cdn.jsdelivr.net/images/ialogo.png",
+    "https://cdn.jsdelivr.net/images/mame.png",
+    "https://cdn.jsdelivr.net/images/dosbox.png",
+    "https://cdn.jsdelivr.net/images/pce.png",
+    "https://cdn.jsdelivr.net/images/sae.png",
+    "https://cdn.jsdelivr.net/images/vice.svg",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/dosbox.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/fallout.zip",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/mame.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/ia-logo-150x150.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/dosbox.html.mem",
+    "https://cdn.jsdelivr.net/emulator/y/2608_bd.wav",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/sae.png",
+    "https://cdn.jsdelivr.net/emulator/y/2608_hh.wav",
+    "https://cdn.jsdelivr.net/emulator/y/2608_sd.wav",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/.json",
+    "https://cdn.jsdelivr.net/emulator/y/2608_rim.wav",
+    "https://cdn.jsdelivr.net/emulator/y/2608_tom.wav",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/vice.svg",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/pce.png",
+    "https://cdn.jsdelivr.net/emulator/y/2608_top.wav",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/.zip",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/logo/emularity_color_small.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/dosbox.html.mem"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/images/ialogo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/ialogo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/mame.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/mame.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/dosbox.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/dosbox.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/pce.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/pce.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/sae.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/sae.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/vice.svg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/vice.svg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/posts.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/posts.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/dosbox.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/dosbox.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/fallout.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/fallout.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/mame.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/mame.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/ia-logo-150x150.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/ia-logo-150x150.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/dosbox.html.mem",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/dosbox.html.mem",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/emulator/y/2608_bd.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/emulator/y/2608_bd.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/sae.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/sae.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/emulator/y/2608_hh.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/emulator/y/2608_hh.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/2608_bd.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_bd.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/emulator/y/2608_sd.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/emulator/y/2608_sd.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/emulator/y/2608_rim.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/emulator/y/2608_rim.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/2608_hh.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_hh.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/emulator/y/2608_tom.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/emulator/y/2608_tom.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/vice.svg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/vice.svg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/pce.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/other_logos/pce.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/emulator/y/2608_top.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/emulator/y/2608_top.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/2608_sd.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_sd.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/2608_rim.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_rim.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/2608_top.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_top.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/2608_tom.wav",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/2608_tom.wav",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/logo/emularity_color_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/logo/emularity_color_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/dosbox.html.mem",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/dosbox/js/dosbox.html.mem",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:45:23.675Z",
+  "verifiedAt": "2026-11-18T06:52:44.390Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "DOSBox SVN, CPU speed: max 100% cycles, Frameskip 0, Program: FALLOUT",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 640,
+      "height": 480
+    },
+    "nonBlack": 4007,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}
