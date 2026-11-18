@@ -1,0 +1,102 @@
+{
+  "slug": "um-jammer-lammy",
+  "title": "Um Jammer Lammy",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/jemmer.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/jemmer.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/jammer.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/jemmer.html",
+  "entryUrl": "https://truffled.lol/gamefile/jemmer.html",
+  "status": "done",
+  "sizeBytes": 523083960,
+  "assetCount": 47,
+  "known404": [
+    "https://truffled.lol/gamefile/asd.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/nipplejs.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/nipplejs.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/emulator.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/emulator.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/storage.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/storage.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/shaders.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/shaders.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/gamepad.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/gamepad.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/GameManager.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/GameManager.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/compression.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/compression.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/socket.io.min.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/socket.io.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/compression/1.7z",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/compression/1.7z",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/gamefile/asd.js",
+      "error": "HTTP 404 for https://truffled.lol/gamefile/asd.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T02:58:05.725Z",
+  "verifiedAt": "2026-11-18T02:59:12.324Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.6597,
+    "rendered": true
+  }
+}
