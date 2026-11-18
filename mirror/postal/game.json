@@ -1,0 +1,526 @@
+{
+  "slug": "postal",
+  "title": "Postal",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/postal.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/postal.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/postal.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/postal.html",
+  "entryUrl": "https://truffled.lol/gamefile/postal.html",
+  "status": "done",
+  "sizeBytes": 493437485,
+  "assetCount": 30,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/index.data",
+    "https://cdn.jsdelivr.net/res/credits.txt",
+    "https://cdn.jsdelivr.net/res/cutscene/abstract.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/baboon.bmp",
+    "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/datafile_web/index.data",
+    "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/web/index.data",
+    "https://cdn.jsdelivr.net/res/cutscene/corridor.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/bluehead.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/dholo.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/dblood.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/dredeye.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/forest.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/fdoor.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/flash.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/guy.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/glassguy.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/hellbrth.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/jacketbg.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/maskfire.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/osaka-1.BMP",
+    "https://cdn.jsdelivr.net/res/cutscene/pit.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/monster.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/real2.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/red2.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/texbeast.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/script.txt",
+    "https://cdn.jsdelivr.net/res/cutscene/tokyo-1.BMP",
+    "https://cdn.jsdelivr.net/res/cutscene/texteeth.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/torture2.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/tossle.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/ttlmorex.bmp",
+    "https://cdn.jsdelivr.net/res/cutscene/war.bmp",
+    "https://cdn.jsdelivr.net/res/editor/down.bmp",
+    "https://cdn.jsdelivr.net/res/editor/cursbase.bmp",
+    "https://cdn.jsdelivr.net/res/editor/curstip.bmp",
+    "https://cdn.jsdelivr.net/res/editor/editor.txt",
+    "https://cdn.jsdelivr.net/res/editor/up.bmp",
+    "https://cdn.jsdelivr.net/res/eye.ico",
+    "https://cdn.jsdelivr.net/res/fonts/_smash.fnt",
+    "https://cdn.jsdelivr.net/res/fonts/smsmash.fnt",
+    "https://cdn.jsdelivr.net/res/fonts/smash.fnt",
+    "https://cdn.jsdelivr.net/res/fonts/system1.fnt",
+    "https://cdn.jsdelivr.net/res/guy.ico",
+    "https://cdn.jsdelivr.net/res/mouth.ico",
+    "https://cdn.jsdelivr.net/res/skull.ico",
+    "https://cdn.jsdelivr.net/res/sign.ico",
+    "https://cdn.jsdelivr.net/res/unicorn/abstract.bmp",
+    "https://cdn.jsdelivr.net/res/rws.ico",
+    "https://cdn.jsdelivr.net/res/unicorn/baboon.bmp",
+    "https://cdn.jsdelivr.net/res/teeth.ico",
+    "https://cdn.jsdelivr.net/res/unicorn/bluehead.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/dblood.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/dholo.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/dredeye.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/fdoor.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/corridor.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/flash.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/glassguy.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/forest.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/hellbrth.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/guy.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/jacketbg.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/maskfire.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/osaka-1.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/monster.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/pit.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/postal.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/real2.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/red2.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/torture2.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/texbeast.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/texteeth.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/tokyo-1.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/tossle.bmp",
+    "https://cdn.jsdelivr.net/title/logo2.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/ttlmorex.bmp",
+    "https://cdn.jsdelivr.net/res/unicorn/war.bmp",
+    "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/.ogg",
+    "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/.mp3",
+    "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/.wav"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/index.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/index.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/credits.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/credits.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/abstract.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/abstract.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/baboon.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/baboon.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/datafile_web/index.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/datafile_web/index.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/web/index.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/web/index.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/corridor.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/corridor.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/bluehead.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/bluehead.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/dholo.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/dholo.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/dblood.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/dblood.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/dredeye.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/dredeye.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/forest.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/forest.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/fdoor.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/fdoor.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/flash.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/flash.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/guy.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/guy.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/glassguy.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/glassguy.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/hellbrth.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/hellbrth.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/jacketbg.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/jacketbg.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/maskfire.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/maskfire.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/osaka-1.BMP",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/osaka-1.BMP",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/pit.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/pit.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/monster.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/monster.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/real2.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/real2.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/red2.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/red2.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/texbeast.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/texbeast.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/script.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/script.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/tokyo-1.BMP",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/tokyo-1.BMP",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/texteeth.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/texteeth.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/torture2.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/torture2.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/tossle.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/tossle.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/ttlmorex.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/ttlmorex.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/cutscene/war.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/cutscene/war.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/editor/down.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/editor/down.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/editor/cursbase.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/editor/cursbase.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/editor/curstip.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/editor/curstip.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/editor/editor.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/editor/editor.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/editor/up.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/editor/up.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/eye.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/eye.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/fonts/_smash.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/fonts/_smash.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/fonts/smsmash.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/fonts/smsmash.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/fonts/smash.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/fonts/smash.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/fonts/system1.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/fonts/system1.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/guy.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/guy.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/mouth.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/mouth.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/skull.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/skull.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/sign.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/sign.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/abstract.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/abstract.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/rws.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/rws.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/baboon.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/baboon.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/teeth.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/teeth.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/bluehead.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/bluehead.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/dblood.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/dblood.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/dholo.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/dholo.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/dredeye.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/dredeye.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/fdoor.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/fdoor.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/corridor.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/corridor.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/flash.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/flash.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/glassguy.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/glassguy.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/forest.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/forest.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/hellbrth.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/hellbrth.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/guy.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/guy.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/jacketbg.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/jacketbg.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/maskfire.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/maskfire.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/osaka-1.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/osaka-1.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/monster.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/monster.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/pit.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/pit.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/postal.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/postal.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/real2.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/real2.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/red2.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/red2.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/torture2.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/torture2.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/texbeast.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/texbeast.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/texteeth.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/texteeth.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/tokyo-1.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/tokyo-1.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/tossle.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/tossle.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/title/logo2.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/title/logo2.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/ttlmorex.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/ttlmorex.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/res/unicorn/war.bmp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/res/unicorn/war.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/.wav",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T18:22:10.487Z",
+  "verifiedAt": "2026-11-17T18:22:22.854Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Postal",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "nonBlack": 7,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}
