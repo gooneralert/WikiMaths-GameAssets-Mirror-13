@@ -1,0 +1,89 @@
+{
+  "mirror/diablo/diablo.zip": {
+    "size": 444654457,
+    "parts": [
+      {
+        "path": "mirror/diablo/diablo.zip.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/diablo/diablo.zip.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/diablo/diablo.zip.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/diablo/diablo.zip.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/diablo/diablo.zip.part005",
+        "size": 84654457
+      }
+    ]
+  },
+  "mirror/sonic-jam/__external__/bbcdn.githack.com/johnbones/aprilfool/raw/main/Sonic Jam (USA).zip": {
+    "size": 471712514,
+    "parts": [
+      {
+        "path": "mirror/sonic-jam/__external__/bbcdn.githack.com/johnbones/aprilfool/raw/main/Sonic Jam (USA).zip.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-jam/__external__/bbcdn.githack.com/johnbones/aprilfool/raw/main/Sonic Jam (USA).zip.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-jam/__external__/bbcdn.githack.com/johnbones/aprilfool/raw/main/Sonic Jam (USA).zip.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-jam/__external__/bbcdn.githack.com/johnbones/aprilfool/raw/main/Sonic Jam (USA).zip.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-jam/__external__/bbcdn.githack.com/johnbones/aprilfool/raw/main/Sonic Jam (USA).zip.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-jam/__external__/bbcdn.githack.com/johnbones/aprilfool/raw/main/Sonic Jam (USA).zip.part006",
+        "size": 21712514
+      }
+    ]
+  },
+  "mirror/pikmin/Pikmin (USA) (Rev 1).rvz": {
+    "size": 555216756,
+    "parts": [
+      {
+        "path": "mirror/pikmin/Pikmin (USA) (Rev 1).rvz.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pikmin/Pikmin (USA) (Rev 1).rvz.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pikmin/Pikmin (USA) (Rev 1).rvz.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pikmin/Pikmin (USA) (Rev 1).rvz.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pikmin/Pikmin (USA) (Rev 1).rvz.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pikmin/Pikmin (USA) (Rev 1).rvz.part006",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pikmin/Pikmin (USA) (Rev 1).rvz.part007",
+        "size": 15216756
+      }
+    ]
+  }
+}
